@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Biodata</string>
+    <string name="email">Email</string>
+    <string name="nim_a11_2017_10706">NIM  : A11.2017.10706</string>
+    <string name="nama_ulia_rizki_maulana">Nama : Ulia Rizki Maulana</string>
+    <string name="hobi_baca">Hobi : membaca, menggambar, menghibur</string>
+    <string name="mahasiswa_teknik_informatika_udinus_semester_5">Mahasiswa S1 Teknik Informatika Udinus semester 5</string>
+    <string name="alamat">Alamat</string>
+    <string name="telepon">Telepon</string>
+    <string name="potoku">potoku</string>
+</resources>
